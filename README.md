@@ -1,3 +1,2 @@
 # Sudip-careers-website
-A careers website for Sudip
-hello 
+A careers website for Sudip hello 
